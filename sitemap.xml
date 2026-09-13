@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Main Home Page (Highest Priority) -->
+    <url>
+        <loc>https://solomanindia.github.io/Dk-Win-Login/index.html</loc>
+        <lastmod>2026-09-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://solomanindia.github.io/Dk-Win-Login/contact.html</loc>
+        <lastmod>2026-09-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Privacy Policy Page -->
+    <url>
+        <loc>https://solomanindia.github.io/Dk-Win-Login/privacy-policy.html</loc>
+        <lastmod>2026-09-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Disclaimer Page -->
+    <url>
+        <loc>https://solomanindia.github.io/Dk-Win-Login/disclaimer.html</loc>
+        <lastmod>2026-09-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
